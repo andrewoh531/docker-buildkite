@@ -1,5 +1,5 @@
 # docker-buildkite
-This is a docker image that is used for Buildkite to help build, test and deploy various repositories. This image currently has the following libaries and tooling:
+This is a docker image that is used within my Buildkite pipeline to help build, test and deploy various artifacts. This image currently has the following libaries and tooling:
 
 - Node.js (version 8)
 - Python 3
